@@ -8,6 +8,17 @@
       }
     },
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Product/ProductShelf.tsx",
+        "title": "Featured Products",
+        "cta": "/mono",
+        "products": {
+          "__resolveType": "Product List Loader"
+        }
+      }
+    },
+    {
       "__resolveType": "site/sections/Images/Carousel.tsx",
       "images": [
         {
@@ -45,17 +56,6 @@
         }
       ],
       "preload": true
-    },
-    {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/Product/ProductShelf.tsx",
-        "title": "Featured Products",
-        "cta": "/mono",
-        "products": {
-          "__resolveType": "Product List Loader"
-        }
-      }
     },
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
